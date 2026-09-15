@@ -11,10 +11,10 @@ cask "assay" do
 
   url "https://app.goassay.io/desktop/Assay-#{version}.dmg"
   name "Assay"
-  desc "Assay's helper in the menu bar: it earns while your computer is on"
+  desc "Helper for the Assay marketplace, in the menu bar"
   homepage "https://goassay.io/"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Assay.app"
 
