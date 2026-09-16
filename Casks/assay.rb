@@ -7,8 +7,8 @@
 # 2026-09-15), so the first open needs Open Anyway in System Settings —
 # Homebrew 7 dropped the --no-quarantine flag that used to skip that.
 cask "assay" do
-  version "0.1.12"
-  sha256 "d91cbf1899cca87632fdb170a5ed2906c3e92d1532955f62336cf1e2564832a6"
+  version "0.1.13"
+  sha256 "99b0d9a374bf73f826f0e80fe76db9bef42e6c9a93aea4b4304c62a1ae34fa5c"
 
   url "https://app.goassay.io/desktop/Assay-#{version}.dmg"
   name "Assay"
