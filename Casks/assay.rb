@@ -8,7 +8,7 @@
 # Homebrew 7 dropped the --no-quarantine flag that used to skip that.
 cask "assay" do
   version "0.1.8"
-  sha256 "7ec9583ef37116954ac420c8f307824a3a35d69148ba2799793e3067638ea056"
+  sha256 "dc4875406e75845436137c2da473b06b05fe90740b47383a939024f1a586cf42"
 
   url "https://app.goassay.io/desktop/Assay-#{version}.dmg"
   name "Assay"
