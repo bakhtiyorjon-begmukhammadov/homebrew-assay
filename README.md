@@ -2,7 +2,7 @@
 
 The desktop app for [Assay](https://goassay.io): your helper in the menu bar.
 
-    brew install --cask bakhtiyorjon-begmukhammadov/assay/assay
+    brew install --cask goassay/assay/assay
 
 The app is not yet signed with an Apple identity;
 macOS refuses the first open (then System Settings › Privacy & Security ›

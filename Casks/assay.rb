@@ -1,7 +1,7 @@
 # The Homebrew cask for Assay's desktop app (E20). Filled in by
 # desktop/release.sh and published to the homebrew-assay tap:
 #
-#     brew install --cask bakhtiyorjon-begmukhammadov/assay/assay
+#     brew install --cask goassay/assay/assay
 #
 # The app is not signed with an Apple identity yet (E20 D5, ruled
 # 2026-09-15), so the first open needs Open Anyway in System Settings —
